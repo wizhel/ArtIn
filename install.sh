@@ -1,2 +1,4 @@
 #!/bin/bash
-source $(dirname $0)/simple_curses.sh
+source $(dirname $0)/lib/simple_curses.sh
+
+
